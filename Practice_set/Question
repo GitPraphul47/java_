@@ -1,0 +1,63 @@
+1. Basic Java Questions
+Write a program to print "Hello, World!".
+
+Take two numbers as input and print their sum.
+
+Check if an input number is even or odd.
+
+Print the largest of three numbers entered by the user.
+
+Find the factorial of a number using a loop.
+
+Count vowels and consonants in a given string.
+
+Swap values between two variables.
+
+Write a program to reverse a string.
+
+Check whether a given string is a palindrome.
+
+Print numbers from 1 to 100 that are divisible by 5.
+
+2. Intermediate Java Questions
+Create a class Student with fields name, age, and grade. Take input and display the details.
+
+Write a program to find the sum and average of numbers in an array.
+
+Implement a simple calculator using switch-case.
+
+Sort an array of integers in ascending order.
+
+Find the second largest element in an array.
+
+Create a method to check whether a number is prime.
+
+Implement a menu-driven program to manage a contact list (add, search, delete).
+
+Handle exceptions: Write a program to take input and catch NumberFormatException.
+
+Create and read/write data to a file (text file).
+
+Create and use an ArrayList to store and retrieve custom objects (like Book or Employee).
+
+3. Advanced Java Questions
+Implement a class hierarchy using inheritance (e.g., Animal → Dog, Cat) with method overriding.
+
+Use abstract classes and interfaces for a payment system simulation.
+
+Design a banking system with Account, Savings, Current classes using OOP.
+
+Implement encapsulation and demonstrate with getters/setters for private class members.
+
+Write a program to serialize and deserialize an object.
+
+Use HashMap to count the frequency of words in a given string.
+
+Implement a program to remove duplicate elements from an array.
+
+Simulate a simple hotel reservation system using classes, constructors, and methods.
+
+Implement basic CRUD operations using file handling (add, display, update, delete records).
+
+Write a generic method to swap elements in an array of any type.
+
